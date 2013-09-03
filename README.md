@@ -1,4 +1,4 @@
-sublime_2_enumerate
+sublime 2 numerate
 ===================
 
 Simple, but handy plugin to enumerate your lists, or whatever.
